@@ -6,7 +6,7 @@ Glad to see you here!
 
 🌱 I’m currently learning Node.js & Python   
 💬 Ask me about SCRUM  
-⚡ Fun fact: Coming soon
+⚡ Fun fact: It's true - I'm a human ;)
 
 ## 💻Tech Stack
 
